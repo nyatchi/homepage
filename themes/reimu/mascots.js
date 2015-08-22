@@ -1,0 +1,1 @@
+var mascotList = [ "reimu1.png", "reimu2.png", "reimu3.png", "reimu4.png", "reimu5.png", "reimu6.png", "reimu7.png", "reimu8.png", "reimu9.png", "reimu10.png", "reimu11.png", "reimu12.png", "reimu13.png", "reimu14.png" ];
